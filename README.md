@@ -3,7 +3,7 @@
 - 🌱 I’m currently building my blog site using gatsby.js and wordPress
 - 📫 How to reach me : pwnkumar201@gmail.com || +91 8800244720
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/creador-dev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=creador-dev&show_icons=true&theme=radical)
 
 <!---
 creador-dev/creador-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
