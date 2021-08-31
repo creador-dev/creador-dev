@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creador-dev" alt="creador-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@pwnkumar221" target="blank"><img src="https://img.shields.io/twitter/follow/@pwnkumar221?logo=twitter&style=for-the-badge" alt="@pwnkumar221" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pwnkumar221" target="blank"><img src="https://img.shields.io/twitter/follow/pwnkumar221?logo=twitter&style=for-the-badge" alt="pwnkumar221" /></a> </p>
 
 - 🔭 I’m currently working on [creador.dev](https://creador.dev)
 
@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://codepen.io/creador-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="creador-dev" height="30" width="40" /></a>
 <a href="https://dev.to/@creadordev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@creadordev" height="30" width="40" /></a>
-<a href="https://twitter.com/@pwnkumar221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pwnkumar221" height="30" width="40" /></a>
+<a href="https://twitter.com/pwnkumar221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pwnkumar221" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pwnkumar201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pwnkumar201" height="30" width="40" /></a>
 <a href="https://fb.com/pwnkumar201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pwnkumar201" height="30" width="40" /></a>
 <a href="https://instagram.com/pawankumar201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawankumar201" height="30" width="40" /></a>
