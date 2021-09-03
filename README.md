@@ -31,10 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creador-dev&show_icons=true&locale=en&layout=compact" alt="creador-dev" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=creador-dev&show_icons=true&locale=en" alt="creador-dev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creador-dev&" alt="creador-dev" /></p>
+![github stats](https://github-readme-stats.vercel.app/api?username=creador-dev&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
