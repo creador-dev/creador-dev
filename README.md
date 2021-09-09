@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [creador.dev](https://creador.dev)
 
-- 🌱 I’m currently learning **Next.js, Flutter and Dart**
+- 🌱 I’m currently learning **Flutter, Firebase, and Dart**
 
 - 👯 I’m looking to collaborate on **creador.dev app**
 
