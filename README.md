@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I spent my free time learning trading and investing.**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=creador-dev&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=creador-dev&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_bordesr=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
